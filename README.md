@@ -13,4 +13,4 @@ After finishing [Crocky in the Sewer](https://github.com/ElenaHolzer/Crocky-in-t
 ---
 &nbsp;![Unity](https://img.shields.io/badge/-Unity-2f333d?style=flat&logo=unity&logoColor=FFFFFF) | Oct 2021 - today (unreleased) | for Windows & MacOS
 
-![Pad](https://user-images.githubusercontent.com/98030917/150649879-31f2b2c8-7608-4ea9-bb8f-3fa8d1510ceb.gif)
+<img src="https://user-images.githubusercontent.com/98030917/150649879-31f2b2c8-7608-4ea9-bb8f-3fa8d1510ceb.gif" alt="GIF of flapping pad" width="166.43" height="154.66"/>
